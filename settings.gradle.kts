@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = "IDEA-353229"
-include("app", "list", "utilities")
+include("app")
