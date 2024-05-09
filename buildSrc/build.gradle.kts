@@ -7,6 +7,12 @@ plugins {
     `kotlin-dsl`
 }
 
+//kotlin {
+//    jvmToolchain(8)
+//}
+
+val change = "change me"
+
 repositories {
     // Use the plugin portal to apply community plugins in convention plugins.
     gradlePluginPortal()
